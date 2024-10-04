@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Dear Abel
       color: text-primary
       type: Badge
     elementId: ''
