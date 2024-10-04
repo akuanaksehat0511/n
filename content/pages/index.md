@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Ini aku lagi
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      aku tau kamu udah muak banget sama aku, udah trauma, udah ilfeel, dan udah
+      benci sama aku. tapi gausa takut, ini bakal jadi terakhir aku gangguin
+      kamu.
     actions:
       - label: Get started
         altText: ''
